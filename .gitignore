@@ -1,0 +1,8 @@
+.DS_Store
+
+# Data and results (not tracked — see README for details)
+V2-dc-opf-zonal-intertemporal/data/
+V2-dc-opf-zonal-intertemporal/results/
+V2-dc-opf-zonal-intertemporal/Manifest.toml
+results_*.pdf
+results_*.png
